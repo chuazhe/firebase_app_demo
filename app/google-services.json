@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "321859748755",
+    "firebase_url": "https://eventsusm.firebaseio.com",
+    "project_id": "eventsusm",
+    "storage_bucket": "eventsusm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321859748755:android:9b89edae0cbb1186",
+        "android_client_info": {
+          "package_name": "com.example.chuazhe.firebase_app_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321859748755-3jhl0mtmslbnasu0h3iofh2k3efql8r7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chuazhe.firebase_app_demo",
+            "certificate_hash": "fbbd5d7ab51923f21cd7b04fb0916930655e11af"
+          }
+        },
+        {
+          "client_id": "321859748755-2gogql0qv1r56nhhqqr1usb0280j46pj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chuazhe.firebase_app_demo",
+            "certificate_hash": "246b14aabbe992ca7ed1d16f1a35c43595d043ec"
+          }
+        },
+        {
+          "client_id": "321859748755-dkj9m50t6gkm3bhla3lr73i6sagtk6in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASj76eaTG20BWCxDewiqz3gREyvRv-1-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321859748755-dkj9m50t6gkm3bhla3lr73i6sagtk6in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
