@@ -1,5 +1,7 @@
 <h1 align="center"> Firebase Demo Project </h1>
 
+# Self-Learning Project
+
 - Uses Firebase as its platform
 - Able to send notification/push message with only Java code
 - Store & Retrieve data/information into Firebase database accordingly to its unique ID
